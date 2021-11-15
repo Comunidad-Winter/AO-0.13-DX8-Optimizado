@@ -1,0 +1,29 @@
+V1.0
+
+26-07-2016: Reemplazo de librería dx7 por dx8.
+26-07-2016: Base para varios sistemas [Lanzamiento de proyectiles, auras, party draw, entre otros]
+26/07/2016: Optimización» Textos del juego (A través de texturas)
+26/07/2016: Lee gráficos comprimidos.
+26/07/2016: Fix» Varios runtime's
+26/07/2016: Agregado de mejoras en funciones y subs [extraído de HAO][Miqueas seguro fue este, negro fiero]
+26/07/2016: Fix» Bugs propios de la versión
+27/07/2016: Optimización» Quitado de código inutilizable [SeguridadAlkon]
+27/07/2016: Optimización» Limpieza del mundo
+27/07/2016: Nuevo chequeo» Npcs respetan su intervalo de golpe.
+27/07/2016: Optimizacion» Sonidos de mapas desde el cliente.
+28/07/2016: Varios timers fueron removidos.
+28/07/2016: Optimización» MainLoop
+29/07/2016: Se borró todo el código relacionado con "CENTINELAS"
+29/07/2016: Array con los personajes encarcelados, para restarles los minutos de penas.
+03/08/2016: Arreglo de pictures en el "frmcrearpersonaje" (No se dibujaban)
+03/08/2016: Arreglo de pictures en el "frmmain" (No se dibujaban)
+03/08/2016: Arreglo bug de skills.
+03/08/2016: Arreglo en el dibujado de objetos "Herreria" y "Carpinteria"
+
+
+V2.0
+23/12/2016: Las penas se restan en el PasarSegundo 
+23/12/2016: Intervalo de npc arreglado. (No pegaban algunos npcs)
+23/12/2016: Fix a errores que me fui comiendo
+23/12/2016: Fix al chequeo de los limites del área (InGameArea)
+28/12/2016: Strings de hechizos manejados desde el cliente
